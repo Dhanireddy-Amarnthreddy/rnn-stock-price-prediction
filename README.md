@@ -122,7 +122,7 @@ plt.show()
 
 ### Mean Square Error
 
-<img width="528" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/rnn-stock-price-prediction/assets/94165103/88922cb2-6cf4-4fd6-b4c4-8966b0454dbe">
+<img width="455" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/rnn-stock-price-prediction/assets/94165103/1fe86449-7a4f-4f9d-9734-57b18f6974eb">
 
 
 ## RESULT
